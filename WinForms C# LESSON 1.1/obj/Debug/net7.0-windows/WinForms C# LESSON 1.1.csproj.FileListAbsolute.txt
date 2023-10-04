@@ -1,0 +1,17 @@
+C:\Users\AzComp\source\repos\WinForms C# LESSON 1.1\WinForms C# LESSON 1.1\bin\Debug\net7.0-windows\WinForms C# LESSON 1.1.exe
+C:\Users\AzComp\source\repos\WinForms C# LESSON 1.1\WinForms C# LESSON 1.1\bin\Debug\net7.0-windows\WinForms C# LESSON 1.1.deps.json
+C:\Users\AzComp\source\repos\WinForms C# LESSON 1.1\WinForms C# LESSON 1.1\bin\Debug\net7.0-windows\WinForms C# LESSON 1.1.runtimeconfig.json
+C:\Users\AzComp\source\repos\WinForms C# LESSON 1.1\WinForms C# LESSON 1.1\bin\Debug\net7.0-windows\WinForms C# LESSON 1.1.dll
+C:\Users\AzComp\source\repos\WinForms C# LESSON 1.1\WinForms C# LESSON 1.1\bin\Debug\net7.0-windows\WinForms C# LESSON 1.1.pdb
+C:\Users\AzComp\source\repos\WinForms C# LESSON 1.1\WinForms C# LESSON 1.1\obj\Debug\net7.0-windows\WinForms C# LESSON 1.1.csproj.AssemblyReference.cache
+C:\Users\AzComp\source\repos\WinForms C# LESSON 1.1\WinForms C# LESSON 1.1\obj\Debug\net7.0-windows\WinForms_C__LESSON_1._1.Form1.resources
+C:\Users\AzComp\source\repos\WinForms C# LESSON 1.1\WinForms C# LESSON 1.1\obj\Debug\net7.0-windows\WinForms C# LESSON 1.1.csproj.GenerateResource.cache
+C:\Users\AzComp\source\repos\WinForms C# LESSON 1.1\WinForms C# LESSON 1.1\obj\Debug\net7.0-windows\WinForms C# LESSON 1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AzComp\source\repos\WinForms C# LESSON 1.1\WinForms C# LESSON 1.1\obj\Debug\net7.0-windows\WinForms C# LESSON 1.1.AssemblyInfoInputs.cache
+C:\Users\AzComp\source\repos\WinForms C# LESSON 1.1\WinForms C# LESSON 1.1\obj\Debug\net7.0-windows\WinForms C# LESSON 1.1.AssemblyInfo.cs
+C:\Users\AzComp\source\repos\WinForms C# LESSON 1.1\WinForms C# LESSON 1.1\obj\Debug\net7.0-windows\WinForms C# LESSON 1.1.csproj.CoreCompileInputs.cache
+C:\Users\AzComp\source\repos\WinForms C# LESSON 1.1\WinForms C# LESSON 1.1\obj\Debug\net7.0-windows\WinForms C# LESSON 1.1.dll
+C:\Users\AzComp\source\repos\WinForms C# LESSON 1.1\WinForms C# LESSON 1.1\obj\Debug\net7.0-windows\refint\WinForms C# LESSON 1.1.dll
+C:\Users\AzComp\source\repos\WinForms C# LESSON 1.1\WinForms C# LESSON 1.1\obj\Debug\net7.0-windows\WinForms C# LESSON 1.1.pdb
+C:\Users\AzComp\source\repos\WinForms C# LESSON 1.1\WinForms C# LESSON 1.1\obj\Debug\net7.0-windows\WinForms C# LESSON 1.1.genruntimeconfig.cache
+C:\Users\AzComp\source\repos\WinForms C# LESSON 1.1\WinForms C# LESSON 1.1\obj\Debug\net7.0-windows\ref\WinForms C# LESSON 1.1.dll
